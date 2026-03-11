@@ -9,7 +9,7 @@ function createBot() {
     const bot = mineflayer.createBot({
         host: 'JHJGJHHHSETRT3-RFQl.aternos.me', 
         port: 33420,
-        username: 'Rodyapidar_24_7',
+        username: 'dobroe utro moya detochka',
         version: false 
     });
 
@@ -29,3 +29,4 @@ function createBot() {
 }
 
 createBot();
+
