@@ -10,7 +10,7 @@ function createBot() {
         host: 'JHJGJHHHSETRT3-RFQl.aternos.me', 
         port: 33420,
         username: 'dobroe utro moya detochka',
-        version: false 
+        version: '1.21.4' 
     });
 
     bot.on('spawn', () => console.log('Бот заспавнился!'));
@@ -29,4 +29,5 @@ function createBot() {
 }
 
 createBot();
+
 
